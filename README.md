@@ -6,7 +6,7 @@ This repository contains a collection of coding projects completed throughout my
 - **C**: Foundational systems and memory-focused programming.
 - **C++**: Data structures and algorithms implementation.
 - **C#**: Console applications.
-- **Java**: Data structures and obect-oriented programming.
+- **Java**: Data structures and object-oriented programming.
 - **JavaScript**: Front-end focused scripts and browser-based logic.
 
 ## Other Projects
