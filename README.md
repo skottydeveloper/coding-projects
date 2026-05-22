@@ -1,6 +1,6 @@
 # Coding Projects
 ## Summary
-This repository contains a collection of coding projects completed throughout my Software Engineering degree. The goal of this repository is to showcase my familiarity with core programming concepts, object-oriented design, and general problem-solving across multiple languages and approaches.
+This repository contains a collection of software engineering projects developed during my degree, demonstrating core programming concepts, data structures, object-oriented design, systems-level thinking, and general problem-solving across multiple languages.
 
 ## Languages & Project Areas
 - **C**: Foundational systems and memory-focused programming.
